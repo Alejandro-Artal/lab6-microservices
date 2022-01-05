@@ -52,4 +52,4 @@ by a PR so other fellow can try it.
 
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
-|     |           |      |             |       |
+|775929|[Alejandro Artal](https://github.com/Alejandro-Artal/lab6-microservices/tree/test)| [Report](https://github.com/Alejandro-Artal/lab6-microservices/blob/test/report.md)           |      |             |       |
